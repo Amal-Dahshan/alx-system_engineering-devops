@@ -1,6 +1,6 @@
-#Configuration Management 101 - writing puppet manifests
+# Configuration Management 101 - writing puppet manifests
 
-##Description:
+## Description:
 
 We learn about server configuration management (also referred to as IT Automation) to turn any infrastructure administration into a codebase, describing all processes necessary for deploying a server in a set of provisioning scripts that can be versioned and easily reused.
 
