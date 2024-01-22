@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# configure client server so that you can connect to a server without typing a password
+
+Host *
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
